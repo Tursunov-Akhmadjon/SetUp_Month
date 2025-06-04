@@ -1,0 +1,9 @@
+1st(google) Github repo. ochish
+2nd(VScode) virtual env. ochish
+3rd(VScode) Read.me file ochish
+4th(VScode) Github repo. ulash(repo.dagi vodlar bilan)
+5th(Github) .gitignore file ochish & (VScode) pull qilish
+6th(VScode) setup.py & requirements.txt file ochish
+    setup.py file ustida ishlash
+        Functon (get_requirements)
+7th(VScode) src folder -> __init__.py file ochis
