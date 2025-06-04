@@ -1,0 +1,14 @@
+1st src folder -> components folder ochish
+    components folder -> __init__.py / data_ingestions.py / data_trasnformation.py / model_trainer.py
+2nd src folder -> pipeline folder ochis
+    pipeline folder -> __init__.py / train_pipeline.py / predict_pipeline.py
+3rd src folder -> exception.py ochish
+    Functions (error_message_detail)
+    Class (CustomException)
+        Functions 
+            __init__
+            __str__
+4th src folder -> logging.py ochish
+5th src folder -> utils.py
+
+
