@@ -1,0 +1,8 @@
+[2025-06-04 13:55:01,548] 26 root - INFO - Enter Dataset
+[2025-06-04 13:55:01,558] 30 root - INFO - Dataset uploaded
+[2025-06-04 13:55:01,566] 36 root - INFO - Train test split initiated
+[2025-06-04 13:55:01,572] 42 root - INFO - Data splited
+[2025-06-04 13:55:01,582] 64 root - INFO - Read train and test data
+[2025-06-04 13:55:01,595] 66 root - INFO - Obtaining Data Preprocessing objects
+[2025-06-04 13:55:01,595] 43 root - INFO - Numerical and Categorical columns are defined
+[2025-06-04 13:55:01,595] 77 root - INFO - Target and Input features are fixed
