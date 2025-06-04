@@ -1,0 +1,9 @@
+1st notebook folder oshich
+    notebook folder -> data folder -> dataset 
+    notebook folder -> EDA.ipynb / Model train.ipynb
+        notebook folder -> EDA.ipynb
+            Detailed analiz qilish kere
+        notebook folder -> Model train.ipynb
+            Model train qilish kerak
+2nd requirements.txt Update: yangi lib. qoshish
+    keyin install qilish: pip install -r requirements.txt
