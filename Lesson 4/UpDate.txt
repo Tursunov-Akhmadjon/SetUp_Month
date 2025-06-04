@@ -1,0 +1,7 @@
+1st src folder -> components folder -> data_ingestions.py Update qilish
+    Class DataIngestionConfig
+    Class DataIngestion 
+        Functions __init__ / initiate_data
+    
+    Running script: python -m src.components.data_ingestion
+        Result: new artifacts foldet -> 3 datasets 

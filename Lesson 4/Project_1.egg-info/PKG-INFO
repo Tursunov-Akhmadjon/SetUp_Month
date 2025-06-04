@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: Project_1
+Version: 0.1.0
+Author: AA
+Author-email: aa@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
