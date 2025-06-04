@@ -1,0 +1,9 @@
+1st src folder -> components folder -> model_train.py Update qilish
+    Class ModelTrainingConfig
+    Class ModelTrainer 
+        Functions __init__ / initiate_model_trainer 
+2nd src folder -> utils.py Update qilish
+    Functions evaluate_model
+3rd src folder -> components folder -> data_ingestion.py Update qilish
+    model trainer.ni qo'shamiz 
+    run qilamiz: python -m src.components.data_ingestion
