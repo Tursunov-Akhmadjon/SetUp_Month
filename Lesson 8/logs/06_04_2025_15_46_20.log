@@ -1,0 +1,14 @@
+[2025-06-04 15:46:21,379] 26 root - INFO - Enter Dataset
+[2025-06-04 15:46:21,379] 30 root - INFO - Dataset uploaded
+[2025-06-04 15:46:21,379] 36 root - INFO - Train test split initiated
+[2025-06-04 15:46:21,379] 42 root - INFO - Data splited
+[2025-06-04 15:46:21,412] 64 root - INFO - Read train and test data
+[2025-06-04 15:46:21,412] 66 root - INFO - Obtaining Data Preprocessing objects
+[2025-06-04 15:46:21,412] 43 root - INFO - Numerical and Categorical columns are defined
+[2025-06-04 15:46:21,412] 77 root - INFO - Target and Input features are fixed
+[2025-06-04 15:46:21,412] 81 root - INFO - Train and test dataset are preprocessed
+[2025-06-04 15:46:21,428] 90 root - INFO - Preprocessing objects are saved
+[2025-06-04 15:46:21,428] 25 root - INFO - Data Split
+[2025-06-04 15:46:21,428] 37 root - INFO - Tunning is started by GridSearchCV
+[2025-06-04 15:46:21,610] 55 root - INFO - Best model found! {model_name}, R2 score: {test_model_score}
+[2025-06-04 15:46:21,610] 81 root - INFO - Best Model Found: RandomForestRegressor R2 score 0.98
