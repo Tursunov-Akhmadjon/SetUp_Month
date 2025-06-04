@@ -1,0 +1,67 @@
+Part 1
+    1st(google) Github repo. ochish
+    2nd(VScode) virtual env. ochish
+    3rd(VScode) Read.me file ochish
+    4th(VScode) Github repo. ulash(repo.dagi vodlar bilan)
+    5th(Github) .gitignore file ochish & (VScode) pull qilish
+    6th(VScode) setup.py & requirements.txt file ochish
+        setup.py file ustida ishlash
+            Functon (get_requirements)
+    7th(VScode) src folder -> __init__.py file ochis
+
+Part 2
+    1st src folder -> components folder ochish
+        components folder -> __init__.py / data_ingestions.py / data_trasnformation.py / model_trainer.py
+    2nd src folder -> pipeline folder ochis
+        pipeline folder -> __init__.py / train_pipeline.py / predict_pipeline.py
+    3rd src folder -> exception.py ochish
+        Functions (error_message_detail)
+        Class (CustomException)
+            Functions 
+                __init__
+                __str__
+    4th src folder -> logging.py ochish
+    5th src folder -> utils.py
+
+Part 3
+    1st notebook folder oshich
+    notebook folder -> data folder -> dataset 
+    notebook folder -> EDA.ipynb / Model train.ipynb
+        notebook folder -> EDA.ipynb
+            Detailed analiz qilish kere
+        notebook folder -> Model train.ipynb
+            Model train qilish kerak
+    2nd requirements.txt Update: yangi lib. qoshish
+        keyin install qilish: pip install -r requirements.txt
+            Result: Project_1.egg-info file auto updated
+Part 4
+    1st src folder -> components folder -> data_ingestions.py Update qilish
+    Class DataIngestionConfig
+    Class DataIngestion 
+        Functions __init__ / initiate_data
+    
+    Running script: python -m src.components.data_ingestion
+        Result: new artifacts foldet -> 3 datasets 
+
+Part 5
+    1st src folder -> components folder -> data_trasnformation.py Update qilish
+        Class DataTransformationConfig
+        Class DataTransformation 
+            Functions __init__ / get_data_transformation_obj / initiate_data_transformation
+    2nd src folder -> utils.py Update qilish
+        Functions save_object
+
+Part 6
+    1st src folder -> components folder -> model_train.py Update qilish
+        Class ModelTrainingConfig
+        Class ModelTrainer 
+            Functions __init__ / initiate_model_trainer 
+    2nd src folder -> utils.py Update qilish
+        Functions evaluate_model
+    3rd src folder -> components folder -> data_ingestion.py Update qilish
+        model trainer.ni qo'shamiz 
+        run qilamiz: python -m src.components.data_ingestion
+
+Part 7
+
+
